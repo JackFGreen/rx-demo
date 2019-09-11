@@ -1,0 +1,13 @@
+{
+  "name": "rx-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "rxjs": "^6.5.3"
+  },
+  "devDependencies": {
+    "rxjs-compat": "^6.5.3"
+  }
+}
